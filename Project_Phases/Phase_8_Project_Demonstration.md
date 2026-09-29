@@ -1,8 +1,8 @@
 # Phase 8: Project Demonstration
 
 ## Demonstration Deliverables
-- **Live Application URL:**
-- **Project Demonstration Video:** ]
+- **Live Application URL:**http://127.0.0.1:8000
+- **Project Demonstration Video:** 
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
